@@ -1,0 +1,2 @@
+Pour la base de donnée installer php my admin correctement importer la base de données avec le fichier .sql
+ensuite rajouter la libraire mysql-connector-java-5.1.41-bin.jar dans la path 
